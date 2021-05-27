@@ -1,0 +1,13 @@
+
+
+spring:
+  application:
+    name: oauth-other-service
+
+#security:
+#  oauth2:
+#    resource:
+#      user-info-uri:  http://localhost:9999/oauth/getUserInfo
+#
+server:
+  port: 8888
